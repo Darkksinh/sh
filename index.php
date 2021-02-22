@@ -1,1 +1,11 @@
-[ "https://nturshro.sirv.com/Api-dark/20210222_035224.jpg?text.0.text=${teks}&text.0.position.gravity=north&text.0.position.y=26%25&text.0.size=23&text.0.color=000000&text.0.font.family=Playfair%20Display%20SC&text.0.font.weight=600&text.0.font.style=italic&text.0.background.opacity=5","https://nturshro.sirv.com/Api-dark/images%20-%202021-02-22T014719.920.jpeg?text.0.text=${teks}&text.0.position.gravity=north&text.0.position.y=50%25&text.0.size=15&text.0.color=000000&text.0.font.family=Ek%20Mukta&text.0.font.weight=600&text.0.font.style=italic&text.0.background.opacity=29","https://nturshro.sirv.com/Api-dark/20210222_024526.jpg?text.0.text=${teks}&text.0.position.gravity=center&text.0.position.y=30%25&text.0.size=25&text.0.color=ffffff&text.0.font.family=Philosopher&text.0.font.style=italic&text.0.background.color=ffffff" ] 
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head></head>
+ <body>
+  <pre style="word-wrap: break-word; white-space: pre-wrap;">{
+  "Criador": "dark", 
+  "Mensagem": "Dark encerrou a api mano", 
+  "status": falso
+}
+</pre>
+ </body>
+</html>
